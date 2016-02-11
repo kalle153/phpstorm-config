@@ -1,0 +1,32 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="svn+ssh://81.169.183.237/var/svn/koviko_kms/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn+ssh://81.169.183.237/var/svn/koviko_kms/trunk" />
+        <option value="svn+ssh://svn/var/svn/koviko_kms/trunk" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\SlikSvn\bin\svn.exe" />
+  </component>
+</application>
