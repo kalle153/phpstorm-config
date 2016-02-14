@@ -71,7 +71,8 @@
     </option>
     <option name="myTypedURLs">
       <list>
-        <option value="svn+ssh://81.169.183.237/var/svn/aprendo/branches/aprendo-dev/all" />
+        <option value="svn+ssh://81.169.183.237/var/svn/koviko_kms/trunk" />
+        <option value="svn+ssh://svn/var/svn/koviko_kms/trunk" />
       </list>
     </option>
     <option name="mySvnCommandLine" value="C:\Program Files\SlikSvn\bin\svn.exe" />
