@@ -1,4 +1,8 @@
 <keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="IntroduceParameter" />
+  <action id="Macro.php tag">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
