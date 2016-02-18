@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="php tag">
+      <typing text-keycode="153:0;0:1;80:0;72:0;80:0;32:0;44:1;32:0;0:1;153:1">&lt;?php&amp;#x20;;&amp;#x20;?&gt;</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+    </macro>
+  </component>
+</application>
