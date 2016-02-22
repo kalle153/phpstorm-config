@@ -1,4 +1,10 @@
 <keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="IntroduceParameter" />
   <action id="Macro.php tag">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
