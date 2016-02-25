@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="install" type="PHP" />
       <mapping ext="class" type="PHP" />
+      <mapping ext="info" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
