@@ -1,0 +1,17 @@
+<templateSet group="Drupal 7">
+  <template name="d7-form-textfield" value="$form['$var1$'] = array(&#10;  '#type' =&gt; 'textfield',&#10;  '#title' =&gt; t('$var2$'),&#10;  '#default_value' =&gt; $var3$,&#10;  '#required' =&gt; TRUE,&#10;);" description="Textfield" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="d7-form-submit" value="  $form['$var1$'] = array(&#10;    '#type'  =&gt; 'submit',&#10;    '#value' =&gt; t('$var2$'),&#10;  );" description="Submit Button" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
