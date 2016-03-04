@@ -12,6 +12,10 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="Macro.php tag">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
@@ -19,6 +23,9 @@
   <action id="PreviousTab" />
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
