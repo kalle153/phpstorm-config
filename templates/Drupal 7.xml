@@ -1,5 +1,5 @@
 <templateSet group="Drupal 7">
-  <template name="d7-form-textfield" value="$form['$var1$'] = array(&#10;  '#type' =&gt; 'textfield',&#10;  '#title' =&gt; t('$var2$'),&#10;  '#default_value' =&gt; $var3$,&#10;  '#required' =&gt; TRUE,&#10;);" description="Textfield" toReformat="false" toShortenFQNames="true">
+  <template name="d7_form_textfield" value="$form['$var1$'] = array(&#10;  '#type' =&gt; 'textfield',&#10;  '#title' =&gt; t('$var2$'),&#10;  '#default_value' =&gt; $var3$,&#10;  '#required' =&gt; TRUE,&#10;);" description="Textfield" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
@@ -7,16 +7,32 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="d7-form-submit" value="  $form['$var1$'] = array(&#10;    '#type'  =&gt; 'submit',&#10;    '#value' =&gt; t('$var2$'),&#10;  );" description="Submit Button" toReformat="false" toShortenFQNames="true">
+  <template name="d7_form_submit" value="  $form['$var1$'] = array(&#10;    '#type'  =&gt; 'submit',&#10;    '#value' =&gt; t('$var2$'),&#10;  );" description="Submit Button" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="d7-form-fieldset" value="  $form['$var1$']                   = array(&#10;    '#type'        =&gt; 'fieldset',&#10;    '#title'       =&gt; t('$var2$'),&#10;    '#collapsible' =&gt; TRUE,&#10;    '#collapsed'   =&gt; FALSE,&#10;  );" description="Fieldset" toReformat="false" toShortenFQNames="true">
+  <template name="d7_form_fieldset" value="  $form['$var1$']                   = array(&#10;    '#type'        =&gt; 'fieldset',&#10;    '#title'       =&gt; t('$var2$'),&#10;    '#collapsible' =&gt; TRUE,&#10;    '#collapsed'   =&gt; FALSE,&#10;  );" description="Fieldset" toReformat="false" toShortenFQNames="true">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="d7_menuitem" value="  $items['$var1$'] = array(&#10;    'title' =&gt; '$var2$',&#10;    'page callback' =&gt; '$var3$',&#10;    'access arguments' =&gt; array('access content'),&#10;    'type' =&gt; MENU_NORMAL_ITEM,&#10;  );" description="Menu Item" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="d7_permission_return" value="  return array(&#10;    '$var1$' =&gt;  array(&#10;      'title' =&gt; t('$var2$'),&#10;      'description' =&gt; t('$var3$'),&#10;    ),&#10;  );" toReformat="false" toShortenFQNames="true">
+    <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
