@@ -16,8 +16,7 @@
       <option name="PHP" value="false" />
     </context>
   </template>
-  <template name="iset" value="isset($var1$) ? $var1$ : '';" description="Surround isset()" toReformat="false" toShortenFQNames="true">
-    <variable name="var1" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+  <template name="iset" value="isset($SELECTION$) ? $SELECTION$ : '$END$'" description="Surround isset()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
