@@ -8,6 +8,7 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="class" type="PHP" />
+      <mapping pattern="test_file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
