@@ -66,6 +66,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="svn+ssh://81.169.183.237/var/svn/aprendo/" />
         <option value="svn+ssh://81.169.183.237/var/svn/rehasonanz/trunk/portal/sites/all" />
         <option value="svn+ssh://81.169.183.237/var/svn/koviko_kms/trunk" />
         <option value="svn+ssh://81.169.183.237/var/svn/aprendo/branches/aprendo-dev/all" />
@@ -73,6 +74,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="svn+ssh://81.169.183.237/var/svn/aprendo/" />
         <option value="svn+ssh://81.169.183.237/var/svn/rehasonanz/trunk/portal/sites/all" />
         <option value="svn+ssh://81.169.183.237/var/svn/rehasonanz/trunk" />
         <option value="svn+ssh://svn@81.169.183.237/var/svn/rehasonanz/trunk/portal/sites/all" />
@@ -82,5 +84,25 @@
       </list>
     </option>
     <option name="mySvnCommandLine" value="C:\Program Files\SlikSvn\bin\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="svn+ssh://81.169.183.237/var/svn/aprendo/branches/business_dashboard_test/sass">
+          <value>
+            <set>
+              <option value="C:\phpstorm\aprendo\zz_branches\branches\business_dashboard_test" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://81.169.183.237/var/svn/aprendo/trunk">
+          <value>
+            <set>
+              <option value="C:\phpstorm\aprendo\zz_branches\branches\business_dashboard_test" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </application>
