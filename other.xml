@@ -103,6 +103,13 @@
             </set>
           </value>
         </entry>
+        <entry key="svn+ssh://81.169.183.237/var/svn/koviko_kms/branches/herbrand_main">
+          <value>
+            <set>
+              <option value="C:\xampp\htdocs\k03\herbrand_main" />
+            </set>
+          </value>
+        </entry>
         <entry key="svn+ssh://81.169.183.237/var/svn/koviko_kms/trunk">
           <value>
             <set>
