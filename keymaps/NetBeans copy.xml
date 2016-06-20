@@ -1,64 +1,10 @@
 <keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
-  <action id="EditorDuplicate" />
-  <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="ctrl d" />
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
-  </action>
-  <action id="GotoBookmark0">
-    <keyboard-shortcut first-keystroke="ctrl numpad0" />
-  </action>
-  <action id="GotoBookmark1">
-    <keyboard-shortcut first-keystroke="ctrl numpad1" />
-  </action>
-  <action id="GotoBookmark2">
-    <keyboard-shortcut first-keystroke="ctrl numpad2" />
-  </action>
-  <action id="GotoBookmark3">
-    <keyboard-shortcut first-keystroke="ctrl numpad3" />
-  </action>
-  <action id="GotoBookmark4">
-    <keyboard-shortcut first-keystroke="ctrl numpad4" />
-  </action>
-  <action id="GotoBookmark5">
-    <keyboard-shortcut first-keystroke="ctrl numpad5" />
-  </action>
-  <action id="GotoBookmark6">
-    <keyboard-shortcut first-keystroke="ctrl numpad6" />
-  </action>
-  <action id="GotoBookmark7">
-    <keyboard-shortcut first-keystroke="ctrl numpad7" />
-  </action>
-  <action id="GotoBookmark8">
-    <keyboard-shortcut first-keystroke="ctrl numpad8" />
-  </action>
-  <action id="GotoBookmark9">
-    <keyboard-shortcut first-keystroke="ctrl numpad9" />
-  </action>
-  <action id="GotoNextBookmark">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
-  <action id="GotoPreviousBookmark">
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-  </action>
   <action id="IntroduceParameter" />
-  <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
   <action id="Macro.php tag">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
-  <action id="NextTab" />
-  <action id="PreviousTab" />
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="ctrl alt add" />
-  </action>
-  <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="alt button2" />
-  </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -74,35 +20,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="ToggleBookmark0">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad0" />
-  </action>
-  <action id="ToggleBookmark1">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
-  </action>
-  <action id="ToggleBookmark2">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad2" />
-  </action>
-  <action id="ToggleBookmark3">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad3" />
-  </action>
-  <action id="ToggleBookmark4">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
-  </action>
-  <action id="ToggleBookmark5">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad5" />
-  </action>
-  <action id="ToggleBookmark6">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
-  </action>
-  <action id="ToggleBookmark7">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad7" />
-  </action>
-  <action id="ToggleBookmark8">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad8" />
-  </action>
-  <action id="ToggleBookmark9">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad9" />
   </action>
 </keymap>
