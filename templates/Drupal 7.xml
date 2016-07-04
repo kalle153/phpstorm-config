@@ -15,4 +15,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="d7-form-submit" value="$form['$NAME$'] = array(&#10;    '#type' =&gt; 'submit',&#10;    '#value' =&gt; '$TITLE$',&#10;);" description="Submit Form Item" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
