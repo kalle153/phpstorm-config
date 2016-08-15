@@ -59,7 +59,7 @@
     </TaskOptions>
     <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-cache --update $FileDir$\$FileName$:$FileDir$\..\css\$FileNameWithoutExtension$.css" />
-      <option name="checkSyntaxErrors" value="false" />
+      <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
