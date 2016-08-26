@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="sif" value="if ($VAR1$) {&#10;    $SELECTION$&#10;}" description="Surround with if" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
