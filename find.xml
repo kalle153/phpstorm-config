@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\phpstorm\aprendo\themes\bs3_alf_manager\sass'" />
-    <option name="defaultScopeName" value="Directory 'C:\phpstorm\aprendo\themes\bs3_alf_manager\sass'" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\phpstorm\aprendo\themes\bs3_alf_manager\sass'" />
+    <option name="customScope" value="Directory 'C:\phpstorm\aprendo\modules\customize\aprendo_hardware'" />
+    <option name="defaultScopeName" value="Directory 'C:\phpstorm\aprendo\modules\customize\aprendo_hardware'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\phpstorm\aprendo\modules\customize\aprendo_hardware'" />
   </component>
 </application>
