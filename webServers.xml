@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19a2a87b-38fe-4b31-9c4d-68f5a2cfe7f4" name="sandbox" url="http://localhost/sandbox">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="21f9d538-e649-43e3-8ec0-66c5bfe4eaaa" name="xampp" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
