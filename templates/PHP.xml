@@ -5,4 +5,16 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="iset" value="isset($VAR1$)?$VAR1$:$VAR2$" description="'isset' statement" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="iiset" value="isset($SELECTION$)?$SELECTION$:''" description="Surround with isset" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
