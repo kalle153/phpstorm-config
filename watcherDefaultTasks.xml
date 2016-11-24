@@ -96,7 +96,7 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update --style compressed $FileDir$\$FileName$:$FileDir$\..\css\$FileName$.css" />
+      <option name="arguments" value="--no-cache --update --style compressed $FileDir$\$FileName$:$FileDir$\..\css\$FileNameWithoutAllExtensions$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .scss files into .css files using compass" />
       <option name="exitCodeBehavior" value="ERROR" />
