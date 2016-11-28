@@ -43,4 +43,13 @@
     <variable name="var2" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="d7-fieldset" value="$form['$VAR1$']                      = array(&#10;    '#type'        =&gt; 'fieldset',&#10;    '#title'       =&gt; '$VAR2$',&#10;    '#collapsible' =&gt; $VAR3$,&#10;    '#collapsed'   =&gt; $VAR4$,&#10;);" description="Form Fieldset" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR4" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
