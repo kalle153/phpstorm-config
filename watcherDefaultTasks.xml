@@ -52,7 +52,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Ruby22-x64/bin/scss.bat" />
-      <option name="scopeName" value="Themes" />
+      <option name="scopeName" value="Themes + Modules" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
