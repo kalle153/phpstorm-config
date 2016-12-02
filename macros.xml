@@ -7,5 +7,11 @@
       <action id="EditorLeft" />
       <action id="EditorLeft" />
     </macro>
+    <macro name="dpm">
+      <typing text-keycode="68:0;80:0;77:0;56:1">dpm(</typing>
+      <action id="EditorPaste" />
+      <action id="EditorLineEnd" />
+      <typing text-keycode="44:1">;</typing>
+    </macro>
   </component>
 </application>
