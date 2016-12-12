@@ -1,6 +1,27 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="c3e559dd-fb9f-4fb7-89ce-6a2fdbc0302d" name="aprendo dev01" url="http://dev01.aprendo.eu">
+        <fileTransfer host="aprendo.eu" port="22" privateKey="Z:\05 Entwicklung\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/dev01.aprendo.eu/html" accessType="SFTP" username="shaensel" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b3104c2f-447a-486e-a0b6-483c9d063e94" name="aprendo dev02" url="http://dev02.aprendo.eu">
+        <fileTransfer host="aprendo.eu" port="22" privateKey="Z:\05 Entwicklung\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/dev02.aprendo.eu/html" accessType="SFTP" username="shaensel" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b4cba508-403c-463f-b791-668b707942ee" name="koviko DEV" url="http://koviko-demo.de">
+        <fileTransfer host="koviko-demo.de" port="22" privateKey="Z:\05 Entwicklung\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/vhosts" accessType="SFTP" username="shaensel" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="19a2a87b-38fe-4b31-9c4d-68f5a2cfe7f4" name="sandbox" url="http://localhost/sandbox">
         <fileTransfer accessType="LOCAL" />
       </webServer>
