@@ -69,6 +69,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="svn+ssh://81.169.183.237/var/svn/snt2017" />
         <option value="svn+ssh://81.169.183.237/var/svn/rehavolution" />
         <option value="svn+ssh://81.169.183.237/var/svn/koviko_de" />
         <option value="svn+ssh://81.169.183.237/var/svn/gigaliga" />
@@ -79,6 +80,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="svn+ssh://81.169.183.237/var/svn/snt2017" />
         <option value="svn+ssh://81.169.183.237/var/svn/rehavolution" />
         <option value="svn+ssh://81.169.183.237/var/svn/koviko_de" />
         <option value="svn+ssh://81.169.183.237/var/svn/gigaliga" />
