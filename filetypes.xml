@@ -1,14 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="info" type="Ini" />
+      <mapping ext="ttf" type="Native" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="class" type="PHP" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
