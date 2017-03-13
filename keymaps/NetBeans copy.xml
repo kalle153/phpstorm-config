@@ -26,6 +26,9 @@
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="IntroduceParameter" />
+  <action id="Macro.Split String">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="Macro.php tag">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
