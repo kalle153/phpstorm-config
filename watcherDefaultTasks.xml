@@ -95,15 +95,15 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="compile path/to/project $FileName$" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--no-cache --update --style compressed $FileDir$\$FileName$:$FileDir$\..\css\$FileNameWithoutAllExtensions$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Compass SCSS" />
-      <option name="output" value="" />
+      <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array />
       </option>
