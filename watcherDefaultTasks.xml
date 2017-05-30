@@ -1,7 +1,7 @@
 <application>
   <component name="ApplicationTasksOptions">
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $FileDir$\$FileName$:$FileDir$\..\css\$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--no-cache --update --style compressed $FileDir$\$FileName$:$FileDir$\..\css\$FileNameWithoutAllExtensions$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -14,7 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="C:/Ruby22-x64/bin/scss.bat" />
-      <option name="scopeName" value="centum" />
+      <option name="scopeName" value="themes" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
       <envs />
