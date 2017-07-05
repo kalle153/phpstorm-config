@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Program Files (x86)\PuTTY\putty.exe" />
+    <option name="myShellPath" value="C:\Program Files\Git\bin\sh.exe" />
+    <option name="myTabName" value="Console" />
   </component>
 </application>
