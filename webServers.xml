@@ -47,6 +47,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="dd57dc78-c82c-4814-aea6-cd66c8765663" name="koviko LIVE" url="http://koviko.de">
+        <fileTransfer host="koviko.de" port="22" privateKey="Z:\05 Entwicklung\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/vhosts" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
