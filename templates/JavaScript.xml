@@ -1,8 +1,8 @@
 <templateSet group="JavaScript">
   <template name="start" value="jQuery(document).ready(function ($) {&#10;&#10;});" description="Insert Basic Wrapper" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
       <option name="PHP String Literal" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="log" value="console.log($SELECTION$)" description="Console Log" toReformat="false" toShortenFQNames="true">
