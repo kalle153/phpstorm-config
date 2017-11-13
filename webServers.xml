@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b4cba508-403c-463f-b791-668b707942ee" name="koviko DEV" url="http://koviko-demo.de">
-        <fileTransfer host="koviko-demo.de" port="22" privateKey="Z:\05 Entwicklung\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/vhosts" accessType="SFTP" keyPair="true" username="shaensel">
+        <fileTransfer host="koviko-demo.de" port="22" privateKey="Z:\05 Entwicklung\Persönlich\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/vhosts" accessType="SFTP" keyPair="true" username="shaensel">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
