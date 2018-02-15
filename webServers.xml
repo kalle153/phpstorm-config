@@ -32,7 +32,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="ada0c09f-12c7-4a7b-bde1-66b7d126f5f8" name="rehasonanz" url="http://rehasonanz.de">
-        <fileTransfer host="rehasonanz.de" port="22" privateKey="Z:\05 Entwicklung\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/vhosts/rehasonanz.de" accessType="SFTP" keyPair="true">
+        <fileTransfer host="rehasonanz.de" port="22" privateKey="Z:\05 Entwicklung\Persönlich\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/vhosts/rehasonanz.de" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
