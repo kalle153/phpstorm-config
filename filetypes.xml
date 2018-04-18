@@ -10,6 +10,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="class" type="PHP" />
       <mapping pattern="DEPLOYMENT" type="PLAIN_TEXT" />
+      <mapping pattern="fdgdfgf" type="PLAIN_TEXT" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
     </extensionMap>
