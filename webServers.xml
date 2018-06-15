@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c3e559dd-fb9f-4fb7-89ce-6a2fdbc0302d" name="aprendo dev01" url="http://dev01.aprendo.eu">
-        <fileTransfer host="aprendo.eu" port="22" privateKey="Z:\05 Entwicklung\Persönlich\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www/dev01.aprendo.eu/html" accessType="SFTP" keyPair="true" username="shaensel">
+        <fileTransfer host="aprendo.eu" port="22" privateKey="Z:\05 Entwicklung\Persönlich\Sebastian Haensel\ssh\shaensel_openssh.ppk" rootFolder="/var/www" accessType="SFTP" keyPair="true" username="shaensel">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
