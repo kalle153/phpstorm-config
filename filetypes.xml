@@ -13,6 +13,7 @@
       <mapping pattern="fdgdfgf" type="PLAIN_TEXT" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="mwb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
