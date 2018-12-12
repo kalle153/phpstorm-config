@@ -262,11 +262,11 @@
     </TaskOptions>
     <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-cache --update $FileDir$\$FileName$:$FileDir$\..\css\$FileNameWithoutExtension$.css" />
-      <option name="checkSyntaxErrors" value="false" />
+      <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="k03 (1 directory up)" />
       <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
@@ -282,11 +282,11 @@
     </TaskOptions>
     <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-cache --update $FileDir$\$FileName$:$FileDir$\..\..\css\$FileDirName$\$FileNameWithoutExtension$.css" />
-      <option name="checkSyntaxErrors" value="false" />
+      <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="k03 (2 directories up)" />
       <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
