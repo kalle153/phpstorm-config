@@ -22,13 +22,16 @@
           <option name="url" value="ssh://bitbucket.koviko.de:7999/k03/k03-gigarace.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://bitbucket.koviko.de:7999/web/koviko-website-2018.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="X:\" />
+    <option name="cloneParentDir" value="C:\xampp\htdocs" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
-    <option name="MIGRATED" value="true" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
