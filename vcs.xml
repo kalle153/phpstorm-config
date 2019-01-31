@@ -30,6 +30,10 @@
           <option name="url" value="ssh://bitbucket.koviko.de:7999/reha/rehasonanz-drupal8.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://bitbucket.koviko.de:7999/it/provisioning-scripts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\xampp\htdocs" />
