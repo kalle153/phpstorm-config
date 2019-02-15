@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -8,6 +8,7 @@
     <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="ELSE_IF_STYLE" value="COMBINE" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
