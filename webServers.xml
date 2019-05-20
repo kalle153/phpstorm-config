@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c3e559dd-fb9f-4fb7-89ce-6a2fdbc0302d" name="aprendo dev01" url="http://dev01.aprendo.eu">
+      <webServer id="c3e559dd-fb9f-4fb7-89ce-6a2fdbc0302d" name="aprendo dev01" url="https://dev01.aprendo.eu">
         <fileTransfer host="aprendo.eu" port="22" privateKey="C:\Users\shaensel\.ssh\id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true" username="shaensel">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
