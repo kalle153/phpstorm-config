@@ -1,21 +1,32 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="info" type="Ini" />
       <mapping ext="ttf" type="Native" />
-      <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="test" type="PHP" />
-      <mapping ext="install" type="PHP" />
-      <mapping ext="theme" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="class" type="PHP" />
-      <mapping pattern="DEPLOYMENT" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern="fdgdfgf" type="PLAIN_TEXT" />
-      <mapping pattern="laschwa" type="PLAIN_TEXT" />
       <mapping pattern="test_file" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping pattern="laschwa" type="PLAIN_TEXT" />
+      <mapping pattern="DEPLOYMENT" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="mwb" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
